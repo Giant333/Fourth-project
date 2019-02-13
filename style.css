@@ -1,0 +1,311 @@
+
+.block-1,
+.block-2,
+.block-3,
+.block-4,
+.block-5,
+.block-6,
+.block-7,
+.block-8,
+.block-9,
+.block-10,
+.block-11,
+.block-12,
+.block-13,
+.block-14,
+.block-15,
+.block-16,
+.block-17,
+.block-18,
+.block-19,
+.block-20,
+.block-21
+
+ {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+}
+.block-1,
+.block-4,
+.block-7 {
+    border: 1px solid red;
+    top: 40px;
+    left: 40px;
+}
+.block-2 {
+    border: 1px solid blue;
+    top: 110px;
+    left: 110px;
+}
+.block-3 {
+    border: 1px solid green;
+    top: 180px;
+    left: 180px;
+}
+.block-5 {
+    border: 1px solid blue;
+    top: 40px;
+    left: 110px;
+}
+.block-6 {
+    border: 1px solid green;
+    top: 40px;
+    left: 180px;
+}
+.block-8 {
+    border: 1px solid blue;
+    top: 70px;
+    left: 70px;
+}
+.block-9 {
+    border: 1px solid green;
+    top: 100px;
+    left: 100px;
+}
+.block-10,
+.block-13,
+.block-16,
+.block-19 {
+    background-color: #ff8888;
+    top: 40px;
+    left: 40px;
+}
+.block-11,
+.block-14,
+.block-17,
+.block-20 {
+    top: 70px;
+    left: 70px;
+    background-color: #7e89eb;
+}
+.block-12,
+.block-15,
+.block-18,
+.block-21 {
+    top: 100px;
+    left: 100px;
+    background-color: #4dee99;
+}
+.block-13 {
+    z-index: 998;
+}
+.block-14 {
+    z-index: 999;
+}
+.block-15 {
+    z-index: 998;
+}
+.block-16 {
+    z-index: 999;
+}
+.block-18 {
+    z-index: 999;
+}
+.block-17 {
+    z-index: 998;
+}
+.block-19 {
+    z-index: 999;
+}
+.block-20 {
+    z-index: 998;
+}
+.block-21 {
+    z-index: 997;
+}
+.block-22,
+.block-24 {
+    margin: auto;
+    width: 500px;
+    height: 400px;
+    position: relative;
+    
+}
+.block-23,
+.block-25 {
+    position: absolute;
+    width: 100px;
+    height: 100px;  
+}
+.block-22 {
+    border: 1px solid green;
+}
+.block-23 {
+    border: 1px solid red;
+    top: 100px;
+    left: 100px;
+}
+.block-24 {
+    background-color: #4dee99;
+}
+.block-25 {
+    background-color: white;
+    top: 50px;
+    left: 50px;
+}
+.block-26 {
+    position: absolute;
+    background-color: white;
+    bottom: 50px;
+    right: 50px;
+    width: 100px;
+    height: 100px; 
+}
+.block-27 {
+    margin: auto;
+    width: 200px;
+    height: 430px;
+    position: relative;
+    border: 1px solid black;
+}
+.block-28,
+.block-29,
+.block-30 {
+    border: 1px solid black;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    left: 50px;
+}
+.block-28 {
+    position: absolute;
+    top: 50px;
+    background-color: red;
+}
+.block-29 {
+    position: absolute;
+    top: 160px;
+    background-color: yellow;
+}
+.block-30 {
+    position: absolute;
+    bottom: 60px;
+    background-color: green;
+}
+.block-31 {
+    margin: auto;
+    width: 500px;
+    height: 500px;
+    position: relative;
+    border-radius: 50%;
+    background-color: #4dee99;
+}
+.block-32,
+.block-33 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    top: 70px;
+}
+.block-32,
+.block-33,
+.block-34,
+.block-35 {
+    position: absolute;
+    background-color: white;
+}
+.block-32 {
+    left: 100px;
+  } 
+.block-33 {
+    right: 100px;
+}
+.block-34 {
+    width: 70px;
+    height: 70px;
+    top: 200px;
+    left: 215px;
+}
+.block-35 {
+    width: 200px;
+    height: 20px;
+    left: 150px;
+    bottom: 130px;
+}
+.block-36 {
+    position: relative;
+    background-color: #c4cd14;
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    
+}
+.block-37,
+.block-38,
+.block-39,
+.block-40 {
+    position: absolute;
+    background-color: white;
+}    
+.block-37,
+.block-38 {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    top: 70px;
+}
+.block-37 {
+    left: 80px;
+}
+.block-38 {
+    right: 80px;
+}
+.block-39 {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    bottom: 130px;
+    left: 165px;
+}
+.block-40 {
+    width: 180px;
+    left: 110px;
+    bottom: 45px;
+    border-radius: 50%;
+    height: 55px;
+}
+.block-41 {
+    width: 600px;
+    margin: auto;
+    border: 1px solid #b43273;
+    border-radius: 10px 10px 0 0;
+    padding: 0 20px;
+    color: #76214b;
+}
+.block-41 h1 {
+    color: #b43273;
+}
+.block-42 {
+    width: 100%;
+    background-color: #b43273;
+    position: fixed;
+    text-align: center;
+    padding-top: 15px;
+    color: white;
+    height: 35px;
+    bottom: 0;
+}
+.block-42 span,
+.block-43 span
+ {
+    font-size: 18px;
+} 
+.block-43 {
+    width: 100%;
+    background-color: #c4cd14;
+    position: fixed;
+    text-align: center;
+    padding-top: 15px;
+    color: white;
+    height: 35px;
+    top: 0;
+}
+.block-44 {
+    margin: auto;
+    width: 600px;
+    border: 1px solid #c4cd14;
+    margin: 60px auto;
+    padding: 20px;
+}
